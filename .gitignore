@@ -51,3 +51,7 @@ venv/
 
 # VS Code related files
 .vscode
+
+
+# my own addition
+.github/
